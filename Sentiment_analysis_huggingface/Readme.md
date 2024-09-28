@@ -27,7 +27,7 @@ pip install transformers torch pandas numpy matplotlib notebook
 ```
 ### Project Structure
 
-- huggingface_sentiment_analysis.ipynb: The main Jupyter notebook containing the code for sentiment analysis using Hugging Face's Transformers.
+- `huggingface_sentiment_analysis.ipynb`: The main Jupyter notebook containing the code for sentiment analysis using Hugging Face's Transformers.
 
 ### Results
 
