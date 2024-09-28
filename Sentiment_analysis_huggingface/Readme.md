@@ -38,5 +38,5 @@ Contributing
 
 For any questions or suggestions, feel free to reach out:
 
-    Name: Elhadi Iich
-    Email: e.iich@hotmail.nl
+Name: Elhadi Iich
+Email: e.iich@hotmail.nl
