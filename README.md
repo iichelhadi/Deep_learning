@@ -9,8 +9,6 @@ This repository contains a collection of deep learning projects that explore var
   - [Image Classifier](#image-classifier)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -53,7 +51,23 @@ This section contains two sub-projects:
 - Python 3.x
 - Additional dependencies as listed in the respective project folders.
 
+## Usage
+Each project has its own usage instructions, detailed in the respective README.md files located in each project's folder. Generally, you'll need to:
+    Clone the repository:
+```bash
+git clone https://github.com/iichelhadi/Deep_learning.git
+cd Deep_learning
+```
+Navigate to the specific project folder you are interested in and follow the instructions in the README.md of that folder.
+
 You can install the general requirements using `pip`:
 
 ```bash
 pip install torch torchvision transformers pandas numpy matplotlib pillow streamlit notebook
+```
+
+### Contact
+For any questions or suggestions, feel free to reach out:
+
+Name: Elhadi Iich
+Email: e.iich@hotmail.nl
