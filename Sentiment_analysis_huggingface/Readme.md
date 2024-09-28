@@ -23,7 +23,7 @@ You can install the required packages using `pip`:
 
 ```bash
 pip install torch torchvision numpy matplotlib notebook
-
+```
 ### Project Structure
 
     Torch_image_classification.ipynb: The main Jupyter notebook containing all the code for the CIFAR-10 image classification task.
